@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1er.ParcialDM</string>
+    //botones del principal
+    <string name="btnNestado">Nuevo encuestado</string>
+    <string name="btnLencuestado">Lista encuestado</string>
+
+</resources>
